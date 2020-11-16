@@ -7,6 +7,8 @@ O projeto consiste em construir o sistema de uma academia, tratando apenas a rel
 - MySQL;
 - PHP, versão 7.4.8.
 
+Os comandos sql utilizados na apresentação se encontram no arquivo: comandos_utilizados_na_apresentacao.sql.
+
 <strong>Integrantes do grupo:</strong>
 - David dos Santos Machado;
 - Pedro Raposo Felix de Sousa;
